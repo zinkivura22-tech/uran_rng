@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "dashrpg",
+    "name": "Dash RPG",
+    "description": "Dash, extra jumps, rolls and a basic skill menu.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["DashRPG"],
+    "credits": "Created with help from ChatGPT",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
