@@ -1,0 +1,14 @@
+key.categories.dashrpg=Dash RPG
+key.dashrpg.menu=Open skill menu
+key.dashrpg.dash=Dash
+key.dashrpg.roll=Roll
+gui.dashrpg.title=Dash RPG - Skills
+gui.dashrpg.points=Skill points: %s
+gui.dashrpg.jumps=Extra jumps: %s
+gui.dashrpg.damage=Damage: %s
+gui.dashrpg.health=Max health: %s
+gui.dashrpg.armor=Armor: %s
+gui.dashrpg.mining=Mining speed: %s
+gui.dashrpg.dodge=Dodge chance: %s%%
+gui.dashrpg.upgrade=Upgrade
+gui.dashrpg.close=Close
